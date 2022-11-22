@@ -16,7 +16,7 @@
 ![WhatsApp Image 2022-11-22 at 08 55 39](https://user-images.githubusercontent.com/94009296/203198239-7d1ba7fb-94cd-4c80-822b-aa5f72191d76.jpeg)
 
 ## PREDEFINE VARIABLE ##
-
+![Screenshot (90)](https://user-images.githubusercontent.com/94009296/203208829-68335f63-5f43-425d-9d17-08dadf754aa5.png)
 
 ## Membuat From Input ##
 ![Screenshot (81)](https://user-images.githubusercontent.com/94009296/203199602-2646ea81-47ed-4110-8f9a-99631485d556.png)
