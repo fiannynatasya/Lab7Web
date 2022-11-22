@@ -9,6 +9,9 @@
 ## PHP DASAR ##
 ![Screenshot (85)](https://user-images.githubusercontent.com/94009296/203207354-7b26380c-021a-45a5-a71d-d489e27267de.png)
 
+![Screenshot (96)](https://user-images.githubusercontent.com/94009296/203210199-1f506017-2909-4510-b202-126170ba0843.png)
+
+
 ## MENGGUNAKAN VARIABLE ##
 ![Screenshot (87)](https://user-images.githubusercontent.com/94009296/203208041-f9868db4-efdd-4fae-b68d-442d338e6e0a.png)
 
@@ -24,6 +27,4 @@
 ![Screenshot (92)](https://user-images.githubusercontent.com/94009296/203209417-cfe0d6e4-b0fb-4d1a-a050-c8145dd030bc.png)
 
 ![Screenshot (94)](https://user-images.githubusercontent.com/94009296/203209846-c44af185-bdbe-4c31-83ec-bdc03c27c8b2.png)
-
-![Screenshot (96)](https://user-images.githubusercontent.com/94009296/203210199-1f506017-2909-4510-b202-126170ba0843.png)
 
