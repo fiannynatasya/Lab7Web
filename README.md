@@ -10,7 +10,7 @@
 ![Screenshot (85)](https://user-images.githubusercontent.com/94009296/203207354-7b26380c-021a-45a5-a71d-d489e27267de.png)
 
 ## MENGGUNAKAN VARIABEL ##
-
+![Screenshot (87)](https://user-images.githubusercontent.com/94009296/203208041-f9868db4-efdd-4fae-b68d-442d338e6e0a.png)
 
 ## LANGKAH - LANGKAH ##
 ![WhatsApp Image 2022-11-22 at 08 55 39](https://user-images.githubusercontent.com/94009296/203198239-7d1ba7fb-94cd-4c80-822b-aa5f72191d76.jpeg)
