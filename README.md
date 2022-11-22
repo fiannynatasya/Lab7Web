@@ -20,5 +20,10 @@
 
 ## Membuat From Input ##
 ![Screenshot (81)](https://user-images.githubusercontent.com/94009296/203199602-2646ea81-47ed-4110-8f9a-99631485d556.png)
+
 ![Screenshot (92)](https://user-images.githubusercontent.com/94009296/203209417-cfe0d6e4-b0fb-4d1a-a050-c8145dd030bc.png)
+
 ![Screenshot (94)](https://user-images.githubusercontent.com/94009296/203209846-c44af185-bdbe-4c31-83ec-bdc03c27c8b2.png)
+
+![Screenshot (96)](https://user-images.githubusercontent.com/94009296/203210199-1f506017-2909-4510-b202-126170ba0843.png)
+
